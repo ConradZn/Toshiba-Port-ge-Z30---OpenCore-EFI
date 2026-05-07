@@ -1,6 +1,6 @@
 # OpenCore 1.0.7 EFI for Toshiba Portege Z30T-B
 
-<img width="1536" height="1024" alt="ChatGPT Image 7  5  2026 14_58_05" src="https://github.com/user-attachments/assets/60e2d38a-37d7-4730-bce9-8004332a9509" />
+<img width="1672" height="941" alt="ChatGPT Image 7  5  2026 15_10_59" src="https://github.com/user-attachments/assets/436c39aa-c27b-4a2d-b2cf-898214f08728" />
 
 This repository provides a fully optimized OpenCore EFI configuration for the **Toshiba Portege Z30T-B** running **macOS Ventura**.
 
