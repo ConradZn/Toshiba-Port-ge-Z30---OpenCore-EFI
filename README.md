@@ -21,7 +21,7 @@ The EFI already contains everything required for installation and daily usage, i
 This EFI is designed only for:
 
 * **macOS Ventura**
-(Works for Sonoma and Sequoia, but you will loose iMessages and FaceTime)
+(Works for Sonoma and Sequoia, but you will need to do trick with itlwm.)
 
 ---
 
