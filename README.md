@@ -10,9 +10,9 @@ The EFI already contains everything required for installation and daily usage, i
 
 # 💻 Supported Hardware
 
-| Model | CPU Generation | Architecture | Integrated GPU | SMBIOS |
+| Model | CPU Generation | Architecture | Integrated GPU | Version |
 | --- | --- | --- | --- | --- |
-| **Toshiba Portege Z30T-B** | 5th Gen | Broadwell | Intel HD 5500 | `MacBookPro12,1` |
+| **Toshiba Portege Z30T-B** | 5th Gen | Broadwell | Intel HD 5500 | `Up to Sequoia` |
 
 ---
 
@@ -21,7 +21,11 @@ The EFI already contains everything required for installation and daily usage, i
 This EFI is designed only for:
 
 * **macOS Ventura**
-(Works for Sonoma and Sequoia, but you will need to do trick with itlwm.)
+* **macOS Sonoma** (For native Wi-Fi read it down below)
+* **macOS Sequoia** (Change SMBIOS model to higher)
+
+(For Sonoma and Sequoia, you will need to do trick to get native Wi-Fi working, I've already prepared the EFI for it.)
+Follow this guide https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia
 
 ---
 
