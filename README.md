@@ -66,9 +66,9 @@ PlatformInfo -> Generic
 
 ---
 
-## 2. Install macOS Ventura
+## 2. Install macOS Ventura / Sonoma / Sequoia
 
-Install macOS Ventura normally using OpenCore.
+Install macOS Version you choose normally using OpenCore.
 
 ---
 
