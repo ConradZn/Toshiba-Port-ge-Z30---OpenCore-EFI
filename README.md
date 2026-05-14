@@ -26,8 +26,9 @@ This EFI is designed only for:
 * **macOS Sonoma** (For native Wi-Fi read it down below)
 * **macOS Sequoia** (Change SMBIOS model to higher)
 
-(For Sonoma and Sequoia, you will need to do trick to get native Wi-Fi working, I've already prepared the EFI for it.)
-Follow this guide https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia
+This EFI is pre-configured for native Wi-Fi support. To make it functional, you must follow this specific guide:
+
+* **Guide:** [[Native Wi-Fi for Intel Wireless on macOS Sequoia/Sonoma](https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia)]
 
 ---
 
