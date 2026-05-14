@@ -6,6 +6,8 @@ This repository provides a fully optimized OpenCore EFI configuration for the **
 
 The EFI already contains everything required for installation and daily usage, including working Wi-Fi, Bluetooth, sleep, iServices, and graphics acceleration support through OCLP.
 
+If you want to change icons, here is my icon changer: https://github.com/ConradZn/MOIC-macOS-Icon-Changer
+
 ---
 
 # 💻 Supported Hardware
